@@ -114,3 +114,11 @@ section#showcase {
 #showcase-content #showcase-btn:hover {
 	opacity: 0.8;
 }
+
+/* ...........................foooter section............................ */
+footer {
+	background-color: #333;
+	padding: 30px;
+	color: #fff;
+	text-align: center;
+}
